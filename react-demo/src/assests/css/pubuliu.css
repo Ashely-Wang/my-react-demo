@@ -1,0 +1,21 @@
+/* .masonry {
+    column-count: 3;
+}
+ 
+.item {
+    break-inside: avoid; 
+    box-sizing: border-box;
+    padding: 10px;
+}
+ 
+@media (min-width: 400px) {
+    .masonry {
+        column-count: 3;
+    }
+}
+ 
+@media (min-width: 1200px) {
+    .masonry {
+        column-count: 4;
+    }
+} */

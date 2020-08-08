@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#middle {
+    width: 100%;
+    margin-top: 65px;
+    margin-left: 47px;
+    margin-right: 0px;
+}
+#middle>section {
+    width: 140%;
+    padding: 0;
+    padding-bottom: 10px;
+}
+#fb {
+    margin-right: 20px;
+}
+#xiao {
+    /* display: flex; */
+    height: auto;
+}
+#gg {
+    height: 2300px !important;
+    background-color: #fff;
+}
+#login {
+    margin: 50px auto;
+    width: 450px;
+}
